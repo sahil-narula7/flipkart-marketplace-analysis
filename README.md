@@ -1,6 +1,6 @@
 # Flipkart Marketplace Product & Vendor Opportunity Analysis
 
-![Flipkart Marketplace Opportunity Dashboard]()
+![Flipkart Marketplace Opportunity Dashboard]("dashboard.png")
 
 ## Project Overview
 
